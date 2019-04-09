@@ -10,3 +10,9 @@
 
 ### IntelliJ IDEA
 /.idea/
+
+# Ignore Eclipse stuff
+/bin/
+.settings/
+.classpath
+.project
