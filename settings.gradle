@@ -14,4 +14,4 @@
  * limitations under the License.
  */
 
-rootProject.name = "ecore-plugin"
+rootProject.name = "gradle-ecore-codegen"
